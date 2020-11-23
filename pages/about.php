@@ -7,10 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php 
-        echo "<h1 style='color:blue;text-align:center;'>Hello PHP</h1>"
-    ?>
-    <a href="pages/about.php">About</a>
-    <a href="pages/contact.php">Contact</a>
+    <h1>Contact</h1>
+    <a href="../index.php">Back to home</a>
 </body>
 </html>
