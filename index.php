@@ -11,6 +11,7 @@
         echo "<h1 style='color:blue;text-align:center;'>Hello PHP</h1>"
     ?>
     <a href="pages/about.php">About</a>
+    <br>
     <a href="pages/contact.php">Contact</a>
 </body>
 </html>
